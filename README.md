@@ -2,7 +2,7 @@
 
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:c0392b,100:16213e&height=280&section=header&text=AADI%20NAMDEV&fontSize=65&fontColor=fff&desc=Full%20Stack%20Java%20Developer&descAlignY=62&descSize=22&animation=fadeIn)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=E63946&center=true&vCenter=true&width=650&lines=Building+production+systems+one+deploy+at+a+time;Java+%2B+MySQL+%2B+Spring+Boot;Marvel+fan+%E2%80%A2+Football+watcher+%E2%80%A2+Gym+regular;Proudly+%F0%9F%87%AE%F0%9F%87%B3+Made+in+India" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=E63946&center=true&vCenter=true&width=650&lines=Building+production+systems+one+deploy+at+a+time;Java+%2B+MySQL+%2B+Spring+Boot" alt="Typing SVG" />
 
 </div>
 
@@ -23,11 +23,10 @@ public class AadiNamdev {
 }
 ```
 
-- 🎓 CS Undergrad at Oriental College of Technology, Bhopal — Class of 2027
-- 💼 Full Stack Developer Intern @ **NITTTR Bhopal** — built & deployed 4 live Java/MySQL platforms
-- 🔐 Into backend security — AES-GCM, PBKDF2-SHA256, RBAC, CSRF/IDOR prevention
+- 🎓 CS Undergrad at Oriental College of Technology, Bhopal : Class of 2027
+- 💼 Full Stack Developer Intern @ **NITTTR Bhopal** : built & deployed 4 live Java/MySQL platforms
+- 🔐 Into backend security : AES-GCM, PBKDF2-SHA256, RBAC, CSRF/IDOR prevention
 - 🏋️ When I'm not committing code, I'm hitting the gym or watching football
-- 🦸 Marvel over DC, no debate needed
 - 📫 Reach me: **aadinamdev7@gmail.com**
 
 <br>
