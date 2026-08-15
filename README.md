@@ -1,74 +1,94 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:c0392b,100:16213e&height=280&section=header&text=AADI%20NAMDEV&fontSize=65&fontColor=fff&desc=Full%20Stack%20Java%20Developer&descAlignY=62&descSize=22&animation=fadeIn)
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=AADI%20NAMDEV&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Java%20Developer&descAlignY=60&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=E63946&center=true&vCenter=true&width=650&lines=Building+production+systems+one+deploy+at+a+time;Java+%2B+MySQL+%2B+Spring+Boot" alt="Typing SVG" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=Shipping+production+Java+%2B+MySQL+systems;Built+%26+deployed+4+live+platforms+at+19;Based+in+India+%F0%9F%87%AE%F0%9F%87%B3" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/status-open_to_work-A78BFA?style=flat-square&labelColor=0F0C29" />
+<img src="https://img.shields.io/badge/focus-backend_%26_security-A78BFA?style=flat-square&labelColor=0F0C29" />
+<img src="https://img.shields.io/badge/based_in-Bhopal%2C_India-A78BFA?style=flat-square&labelColor=0F0C29" />
 
 </div>
 
 <br>
 
-## 👋 About Me
+## → About
 
-```java
-public class AadiNamdev {
-    String role      = "Full Stack Developer";
-    String location  = "Bhopal, India";
-    String[] stack   = {"Java", "Spring Boot", "MySQL", "JavaScript", "Servlets"};
-    String[] offDuty = {"Marvel marathons", "Football", "Gym", "Shipping side projects"};
+Full Stack Developer with production experience — four Java/MySQL platforms built and deployed live during my internship at NITTTR Bhopal, handling real institutional data and 5,000+ row datasets. I care about getting the details right: clean architecture, secure-by-default code, and systems that hold up under real usage, not just demos.
 
-    public static void main(String[] args) {
-        System.out.println("4 production systems deployed. Still counting reps and goals.");
-    }
-}
-```
+<table>
+<tr>
+<td width="33%" valign="top">
 
-- 🎓 CS Undergrad at Oriental College of Technology, Bhopal : Class of 2027
-- 💼 Full Stack Developer Intern @ **NITTTR Bhopal** : built & deployed 4 live Java/MySQL platforms
-- 🔐 Into backend security : AES-GCM, PBKDF2-SHA256, RBAC, CSRF/IDOR prevention
-- 🏋️ When I'm not committing code, I'm hitting the gym or watching football
-- 📫 Reach me: **aadinamdev7@gmail.com**
+**🎓 Currently**
+CS Engineering @ Oriental College of Technology, 2027
+
+</td>
+<td width="33%" valign="top">
+
+**🔐 Deep into**
+AES-GCM, PBKDF2, RBAC, CSRF/IDOR prevention
+
+</td>
+<td width="33%" valign="top">
+
+**🎯 Approach**
+Independent ownership, end-to-end delivery, zero shortcuts
+
+</td>
+</tr>
+</table>
+
+*Outside of code — football, the gym, and guitar, when there's time left in the day.*
 
 <br>
 
-## 🛠️ Tech Stack
+## → Stack
 
-![Skills](https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,mongodb,git,github,vscode,idea,postman,py)
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,mongodb,git,github,vscode,idea,postman,py&perline=13" />
+
+</div>
 
 <br>
 
-## 🚀 Projects Built @ NITTTR Bhopal
+## → Featured Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📊 CSV Viewer & Report Generation
-**Jakarta Servlets · JSP · MySQL · Bootstrap 5**
-Replaced manual handling of 5,000+ row CSV datasets with a 3-tier platform (13 servlets) — async report generation, one-click CSV/Excel export.
+**📊 CSV Viewer & Report Generation**
+`Jakarta Servlets` `JSP` `MySQL` `Bootstrap 5`
+Replaced manual handling of 5,000+ row CSV datasets with a 3-tier platform — 13 servlets, async report generation, one-click export.
 
 </td>
 <td width="50%" valign="top">
 
-### 🔗 ADMALL — CSV-to-JSON Linking
-**J2EE Servlets/Filters · MySQL JSON · AES-128**
-Schema-less CSV ingestion on a hybrid relational/JSON model, secured with AES-128 tokens, PBKDF2-SHA256, and 4-role RBAC.
+**🔗 ADMALL — CSV-to-JSON Linking**
+`J2EE` `MySQL JSON` `AES-128`
+Schema-less CSV ingestion on a hybrid relational/JSON model — AES-128 tokens, PBKDF2-SHA256, 4-role RBAC.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ DCCMF — Data Collection Framework
-**Jakarta Servlets · JSP · MySQL · HikariCP**
-Metadata-driven MVC framework — forms reconfigure via JSON at runtime, zero code changes, with a custom SqlInjectionGuard.
+**⚙️ DCCMF — Data Collection Framework**
+`Servlets` `JSP` `MySQL` `HikariCP`
+Metadata-driven MVC framework — forms reconfigure via JSON at runtime, zero code changes, custom SqlInjectionGuard.
 
 </td>
 <td width="50%" valign="top">
 
-### 📈 CSV Pivot Web Application
-**Java Servlets · JSP/JSTL · MySQL · MVC**
-Dependency-free pivot engine with nested groupings, IQR outlier filtering, and a custom OpenXML exporter — no external libs.
+**📈 CSV Pivot Web Application**
+`Java Servlets` `JSP/JSTL` `MySQL`
+Dependency-free pivot engine — nested groupings, IQR outlier filtering, custom OpenXML exporter, no external libs.
 
 </td>
 </tr>
@@ -76,44 +96,52 @@ Dependency-free pivot engine with nested groupings, IQR outlier filtering, and a
 
 <div align="center">
 
-**💈 Groomify** — Grooming & self-care booking platform · Java · MySQL · HTML/CSS/JS
+**💈 Groomify** — grooming & self-care booking platform · `Java` `MySQL` `HTML/CSS/JS`
 Full registration/login/booking flow on a relational schema with full referential integrity.
 
 </div>
 
 <br>
 
-## 🌐 Connect With Me
+## → Trophies
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aadi-namdev-550bb3325)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__aadinamdev__/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadinamdev7@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aadinamdev10-hub)
+<img src="https://github-profile-trophy.vercel.app/?username=aadinamdev10-hub&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" />
 
 </div>
 
 <br>
 
-## 📊 GitHub Stats
+## → Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aadinamdev10-hub&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aadinamdev10-hub&theme=radical&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadinamdev10-hub&layout=compact&theme=radical&hide_border=true" width="55%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aadinamdev10-hub&theme=react-dark&hide_border=true&area=true" width="100%" />
 
 </div>
 
 <br>
 
-## 🐍 Contribution Snake
+## → Stats
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aadinamdev10-hub/aadinamdev10-hub/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=aadinamdev10-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadinamdev10-hub&layout=donut&theme=tokyonight&hide_border=true" width="48%" />
+
+</div>
+
+<br>
+
+## → Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5)](https://linkedin.com/in/aadi-namdev-550bb3325)
+[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F)](https://www.instagram.com/__aadinamdev__/)
+[![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white&color=D14836)](mailto:aadinamdev7@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/aadinamdev10-hub)
 
 </div>
 
@@ -121,8 +149,8 @@ Full registration/login/booking flow on a relational schema with full referentia
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=aadinamdev10-hub&color=e63946&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:24243E,50:302B63,100:0F0C29&height=100&section=footer" width="100%"/>
 
-*"Whatever it takes."* 🦾
+<img src="https://komarev.com/ghpvc/?username=aadinamdev10-hub&color=A78BFA&style=flat-square&label=PROFILE+VIEWS" />
 
 </div>
