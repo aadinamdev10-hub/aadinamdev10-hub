@@ -12,7 +12,7 @@
 
 <br>
 
-- 🟢 Built & deployed **4 platforms during my internship at NITTTR Bhopal** — all **live and running right now** on real institutional systems
+- 🟢 Built & deployed **4 platforms during my internship at NITTTR Bhopal** all **live and running right now** on real institutional systems
 - 🚀 Currently leveling up in **Spring Boot** & **system design**
 - 📫 Reach me at **aadinamdev7@gmail.com**
 
